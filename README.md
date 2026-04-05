@@ -85,7 +85,7 @@ But as a system in progress.
 
 ---
 
-— **Shashank Pandey**
+— **Shailja Joshi**
 *Builder. Breaker. Rebuilder.*
 
 ---
