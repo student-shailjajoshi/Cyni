@@ -94,3 +94,13 @@ But as a system in progress.
   <sub>⚡ CYNI is evolving - and this time, it's intentional.<br/>
   Built with ❤️, redesigned with purpose.</sub>
 </p>
+
+## Modifications by Me
+
+- Explored the structure of the project
+- Understood modules such as Models, Database, and Tasks
+- Made minor changes to understand the working of the system
+
+## About
+
+This is a Python-based modular project. I worked on understanding its architecture and functionality as part of my learning.
